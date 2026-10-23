@@ -7,7 +7,7 @@ My work focuses on Identity & Access Management (IAM), with a particular interes
 
 Through my IAM portfolio, I examine identity security challenges involving entitlement reviews, permission sprawl, role-based access control (RBAC), credential governance and AI agent permissions. My work connects security findings with practical control recommendations, operational requirements and accountability.
 
-My technical focus includes Microsoft Entra ID, Privileged Identity Management (PIM), PowerShell and Microsoft Graph, alongside the implementation and validation of identity controls.
+My technical focus includes Microsoft Entra ID, Privileged Identity Management (PIM) and PowerShell for IAM automation, with a practical emphasis on identity control implementation and validation.
 
 I also hold a Bachelor's degree in International Business, which supports my ability to connect technical security decisions with business risk, operational needs and stakeholder communication.
 
