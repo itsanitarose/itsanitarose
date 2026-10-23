@@ -1,12 +1,15 @@
 # Anita Rose | Identity | AI Security
 
 *Because in the age of AI, defence must be as smart as the threat.*
+## About Me
 
-My focus is Identity and Access Management (IAM), with a particular interest in securing non-human identities, AI agents and the permissions that govern their access to enterprise systems.
+My work focuses on Identity & Access Management (IAM), with a particular interest in securing AI agents, non-human identities and the access they hold across enterprise environments.
 
-Through my Northwind Health project portfolio, I examine identity security challenges involving access governance, role-based access control, least privilege, credential security and risk management.
+Through my IAM portfolio, I examine identity security challenges involving entitlement reviews, permission sprawl, role-based access control (RBAC), credential governance and AI agent permissions. My work connects security findings with practical control recommendations, operational requirements and accountability.
 
-I'm particularly interested in the engineering side of identity security: how identities are configured, how access is enforced and how security controls protect systems without disrupting legitimate business operations.
+My technical focus includes Microsoft Entra ID, Privileged Identity Management (PIM), PowerShell and Microsoft Graph, alongside the implementation and validation of identity controls.
+
+I also hold a Bachelor's degree in International Business, which supports my ability to connect technical security decisions with business risk, operational needs and stakeholder communication.
 
 ## 📁 Featured Projects
 
@@ -16,10 +19,13 @@ I'm particularly interested in the engineering side of identity security: how id
 | [Northwind Health — IAM Permission Sprawl & RBAC Design](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Role-Based Access Control (RBAC) design, security-group mapping, least-privilege analysis, segregation-of-duties assessment, privileged access governance and remediation planning. |
 | [Northwind Health — AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Non-human identity security, AI agent permission review, API credential risk assessment, identity governance, suspicious activity analysis, incident-response recommendations and security control design. |
 
-## 🛠️ Skills & Knowledge
+## Technical Focus
 
-**Identity and Access Management:** User Access Reviews · Joiner–Mover–Leaver (JML) · Role-Based Access Control (RBAC) · Least Privilege · Access Recertification · Non-Human Identity Security
-
-**Security & Risk:** Identity Governance · Segregation of Duties (SoD) · Privileged Access Governance · Risk Assessment · Risk Prioritisation · API Credential Security · Security Monitoring · Incident-Response Support
-
-**Documentation & Analysis:** Access Reconciliation · Security Documentation · Remediation Planning · IAM Process Improvement · Security Control Design
+- **AI Agent & Non-Human Identity Security**
+- **Microsoft Entra ID (Azure AD)**
+- **Identity Governance & Access Reviews**
+- **Role-Based Access Control (RBAC) & Least Privilege**
+- **Privileged Identity Management (PIM)**
+- **PowerShell for IAM Automation**
+- **Identity Lifecycle & Credential Management**
+- **Identity Security Monitoring & Audit Logs**
