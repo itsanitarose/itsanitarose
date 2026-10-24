@@ -15,7 +15,7 @@ I also hold a Bachelor's degree in International Business, which supports my abi
 
 | Project | What it demonstrates |
 |---|---|
-| [Northwind Health — IAM User Access Review](https://github.com/itsanitarose/IAM-Access-Review) | HR-to-application access reconciliation, Joiner–Mover–Leaver (JML) risk identification, privileged access review, risk prioritisation, remediation planning and executive reporting. |
+| [Northwind Health — IAM User Access Review](https://github.com/itsanitarose/IAM-Access-Review) |HR-to-identity access reconciliation, JML risk assessment, privileged access review, and risk-based remediation. Includes hands-on Microsoft Entra ID administration, Microsoft Graph PowerShell automation, and post-remediation verification. |
 | [Northwind Health — IAM Permission Sprawl & RBAC Design](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Role-Based Access Control (RBAC) design, security-group mapping, least-privilege analysis, segregation-of-duties assessment, privileged access governance and remediation planning. |
 | [Northwind Health — AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Non-human identity security, AI agent permission review, API credential risk assessment, identity governance, suspicious activity analysis, incident-response recommendations and security control design. |
 
