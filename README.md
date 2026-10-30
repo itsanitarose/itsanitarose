@@ -11,17 +11,37 @@ My technical focus includes Microsoft Entra ID, Privileged Identity Management (
 
 I also hold a Bachelor's degree in International Business, which supports my ability to connect technical security decisions with business risk, operational needs and stakeholder communication.
 
-## 📁 Featured Projects
+## Selected Projects
 
-| Project | Focus | Evidence |
-|---|---|---|
-| **[User Access Review](https://github.com/itsanitarose/IAM-Access-Review)** | Reconciled HR records against portal accounts and remediated access found after employment or contract end | Changes implemented and verified in Entra ID with Microsoft Graph PowerShell |
-| **[Permission Sprawl & RBAC Design](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC)** | Redesigned excessive permissions into job-based roles, with least privilege and segregation of duties | Role model, group mapping, and risk assessment |
-| **[AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review)** | Reviewed an AI support agent's permissions, credentials, and ownership, and analysed suspicious bulk-read activity | Permission review, findings register, and incident-response recommendations |
+*Focused investigations, practical controls, documented evidence.*
 
-## 📂 Ongoing: Northwind Health Case Studies
+### [User Access Review ↗](https://github.com/itsanitarose/IAM-Access-Review)
 
-A running series of IAM tickets at a fictional healthcare company, from investigation to implementation and validation. **[See all case studies →](https://github.com/itsanitarose/IAM-Case-Studies)**
+Identified and remediated access retained after employment or contract end.
+
+**Evidence:** Account reconciliation, Entra ID changes, and PowerShell validation
+
+### [Permission Sprawl & RBAC Design ↗](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC)
+
+Redesigned excessive permissions into job-based roles aligned with least privilege and segregation of duties.
+
+**Evidence:** Role model, group mapping, and risk assessment
+
+### [AI Agent Security Review ↗](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review)
+
+Assessed an AI support agent's permissions, credentials, and ownership, including suspicious bulk-read activity.
+
+**Evidence:** Permission review, findings register, and incident-response recommendations
+
+---
+
+## Northwind Health | Case Study Series
+
+*Ongoing · Fictional healthcare environment*
+
+Investigating identity risks, implementing controls in Microsoft Entra ID, and validating the results.
+
+**[Explore the case studies →](https://github.com/itsanitarose/IAM-Case-Studies)**
 
 
 ## Technical Focus
