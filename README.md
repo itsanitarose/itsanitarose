@@ -35,7 +35,7 @@ Assessed an AI support agent's permissions, credentials, and ownership, includin
 
 ---
 
-## Northwind Health | Case Study Series
+## Northwind Health | IAM Case Studies
 
 *Ongoing · Fictional healthcare environment*
 
