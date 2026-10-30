@@ -21,11 +21,8 @@ I also hold a Bachelor's degree in International Business, which supports my abi
 
 ## Technical Focus
 
-- **AI Workload Security & Access Control**
+- **AI Agent Security Assessment**
 - **Microsoft Entra ID**
 - **Identity Governance & Access Reviews**
-- **Role-Based Access Control (RBAC) & Least Privilege**
-- **Privileged Identity Management (PIM)**
+- **Role-Based Access Control (RBAC) Design & Least Privilege**
 - **PowerShell for IAM Automation**
-- **Identity Lifecycle & Credential Management**
-- **Identity Security Monitoring & Audit Logs**
