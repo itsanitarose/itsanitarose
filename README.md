@@ -13,11 +13,13 @@ I also hold a Bachelor's degree in International Business, which supports my abi
 
 ## 📁 IAM Case Studies
 
-| Project | What it demonstrates |
+Hands-on identity and access management case studies at a fictional healthcare company, from investigation to implementation and validation. **[See all case studies →](https://github.com/itsanitarose/IAM-Case-Studies)**
+
+| Case Study | What it demonstrates |
 |---|---|
-| [Northwind Health — IAM User Access Review](https://github.com/itsanitarose/IAM-Access-Review) |HR-to-identity access reconciliation, JML risk assessment, privileged access review, and risk-based remediation. Includes hands-on Microsoft Entra ID administration, Microsoft Graph PowerShell automation, and post-remediation verification. |
-| [Northwind Health — IAM Permission Sprawl & RBAC Design](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Role-Based Access Control (RBAC) design, security-group mapping, least-privilege analysis, segregation-of-duties assessment, privileged access governance and remediation planning. |
-| [Northwind Health — AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Non-human identity security, AI agent permission review, API credential risk assessment, identity governance, suspicious activity analysis, incident-response recommendations and security control design. |
+| [User Access Review](https://github.com/itsanitarose/IAM-Access-Review) | HR-to-account reconciliation, joiner/mover/leaver risk, remediation implemented and verified in Entra ID with Microsoft Graph PowerShell |
+| [Permission Sprawl & RBAC Design](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Role-based access design, security-group mapping, least privilege, segregation of duties |
+| [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Non-human identity risk, agent permission review, credential and ownership findings, suspicious-activity analysis |
 
 ## Technical Focus
 
