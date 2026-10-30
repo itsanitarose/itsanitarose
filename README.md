@@ -51,11 +51,3 @@ Investigating identity risks, implementing controls in Microsoft Entra ID, and v
 
 **[Explore the case studies →](https://github.com/itsanitarose/IAM-Case-Studies)**
 
-
-## Technical Focus
-
-- **Microsoft Entra ID**
-- **Identity Governance & Access Reviews**
-- **Role-Based Access Control (RBAC) & Least Privilege**
-- **PowerShell Automation for IAM**
-- **AI Agent & Non-Human Identity Security**
