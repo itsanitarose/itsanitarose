@@ -27,19 +27,19 @@ My background in **International Business and customer service** helps me connec
 
 Identified and remediated access retained after employment or contract end.
 
-**Evidence:** Account reconciliation, Entra ID changes, and PowerShell validation
+**Technical Approach:** Account reconciliation, Entra ID changes, and PowerShell validation
 
 ### [Permission Sprawl & RBAC Design ↗](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC)
 
 Redesigned excessive permissions into job-based roles aligned with least privilege and segregation of duties.
 
-**Evidence:** Role model, group mapping, and risk assessment
+**Technical Approach:** Role model, group mapping, and risk assessment
 
 ### [AI Agent Security Review ↗](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review)
 
 Assessed an AI support agent's permissions, credentials, and ownership, including suspicious bulk-read activity.
 
-**Evidence:** Permission review, findings register, and incident-response recommendations
+**Technical Approach:** Permission review, findings register, and incident-response recommendations
 
 ---
 
