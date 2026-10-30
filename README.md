@@ -11,7 +11,7 @@ My technical focus includes Microsoft Entra ID, Privileged Identity Management (
 
 I also hold a Bachelor's degree in International Business, which supports my ability to connect technical security decisions with business risk, operational needs and stakeholder communication.
 
-## 📁 Featured Projects
+## 📁 IAM Case Studies
 
 | Project | What it demonstrates |
 |---|---|
