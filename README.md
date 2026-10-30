@@ -22,7 +22,7 @@ I also hold a Bachelor's degree in International Business, which supports my abi
 ## Technical Focus
 
 - **AI Workload Security & Access Control**
-- **Microsoft Entra ID (Azure AD)**
+- **Microsoft Entra ID**
 - **Identity Governance & Access Reviews**
 - **Role-Based Access Control (RBAC) & Least Privilege**
 - **Privileged Identity Management (PIM)**
