@@ -21,8 +21,8 @@ I also hold a Bachelor's degree in International Business, which supports my abi
 
 ## Technical Focus
 
-- **AI Agent Security Assessment**
 - **Microsoft Entra ID**
 - **Identity Governance & Access Reviews**
-- **Role-Based Access Control (RBAC) Design & Least Privilege**
-- **PowerShell for IAM Automation**
+- **Role-Based Access Control (RBAC) & Least Privilege**
+- **PowerShell Automation for IAM**
+- **AI Agent & Non-Human Identity Security**
