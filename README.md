@@ -23,7 +23,7 @@ My background in **International Business and customer service** helps me connec
 
 *Focused investigations, practical controls, documented evidence.*
 
-### [User Access Review ↗](https://github.com/itsanitarose/IAM-Access-Review)
+### [User Access Audit ↗](https://github.com/itsanitarose/IAM-Access-Review)
 
 Identified and remediated access retained after employment or contract end.
 
