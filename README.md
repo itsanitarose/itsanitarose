@@ -23,7 +23,7 @@ My background in **International Business and customer service** helps me connec
 
 *Focused investigations, practical controls, documented evidence.*
 
-### [User Access Audit ↗](https://github.com/itsanitarose/IAM-Access-Review)
+### [User Access Review ↗](https://github.com/itsanitarose/IAM-Access-Review)
 
 Identified and remediated access retained after employment or contract end.
 
@@ -43,9 +43,9 @@ Assessed an AI support agent's permissions, credentials, and ownership, includin
 
 ---
 
-## Northwind Health | IAM Case Studies
+## IAM Case Studies
 
-*Ongoing · Fictional healthcare environment*
+*Ongoing · Fictiona environment*
 
 Investigating identity risks, implementing controls in Microsoft Entra ID, and validating the results.
 
