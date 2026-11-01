@@ -41,7 +41,7 @@ Identified and remediated access retained after employment or contract end.
 
 Redesigned excessive permissions into job based roles aligned with least privilege and segregation of duties.
 
-**Technical Approach:** Role model, group mapping, and risk assessment
+**Technical Approach:** RBAC role design, security group mapping, and access risk assessment.
 
 ### [AI Agent Security Review ↗](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review)
 
