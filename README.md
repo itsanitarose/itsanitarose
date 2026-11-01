@@ -23,7 +23,7 @@ My background in **International Business and customer service** taught me somet
 
 I bring that perspective into identity security, translating technical findings into **decisions that work for the whole business, not just IT.**
 
-**Currently exploring IAM Analyst and Identity Security opportunities.**
+
 
 **Open to IAM Analyst and Identity Security opportunities.**
 
