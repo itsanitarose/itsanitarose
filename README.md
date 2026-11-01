@@ -1,4 +1,4 @@
-# Ciao, I'm Anita Rose 👩🏾‍💻
+## Ciao, I'm Anita Rose 👩🏾‍💻
 
 **One thing has always intrigued me: power.**
 
@@ -39,7 +39,7 @@ Identified and remediated access retained after employment or contract end.
 
 ### [Permission Sprawl & RBAC Design ↗](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC)
 
-Redesigned excessive permissions into job-based roles aligned with least privilege and segregation of duties.
+Redesigned excessive permissions into job based roles aligned with least privilege and segregation of duties.
 
 **Technical Approach:** Role model, group mapping, and risk assessment
 
