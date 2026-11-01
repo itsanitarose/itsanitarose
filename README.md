@@ -29,7 +29,7 @@ I bring that perspective into identity security, translating technical findings 
 
 ## Selected Projects
 
-*Focused investigations, practical controls, documented evidence.*
+*Real access problems, investigated, fixed and documented*
 
 ### [User Access Review ↗](https://github.com/itsanitarose/IAM-Access-Review)
 
