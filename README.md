@@ -1,21 +1,31 @@
-# Anita Rose | Identity Security · AI Security
+# Ciao, I'm Anita Rose 👩🏾‍💻
 
-*Because in the age of AI, defence must be as smart as the threat.*
+**One thing has always intrigued me: power.**
 
-## 👩🏾‍💻 About Me
+And **access** is what gives power to people, systems, and now AI agents.
 
-My work focuses on **Identity and Access Management (IAM)**, with a particular interest in securing AI agents and non-human identities. As their use grows, ownership, access control, and accountability become increasingly important. My focus is making access visible, appropriate, and accountable.
+As an **IAM analyst**, my work focuses on understanding where that power is needed, how it could be abused, and where controls should draw the line.
+
+I enjoy investigate identity risk with **an attacker's mindset and a defender's responsibility.** Because in the age of AI, defence must be as smart as the threat.
+
+## What I Do
 
 Through my portfolio, I build practical solutions to IAM problems:
 
-- 🔐 **Identity Governance:** Entitlement reviews, excessive permissions, and access lifecycle controls.
-- 🛡️ **Access Control:** Role-based access control (RBAC), least privilege, and permission validation.
-- 🔑 **Credential Governance:** Managing credential-related risks and identity access.
-- ☁️ **Microsoft Entra ID:** Identity administration, role assignments, and access governance.
-- ⚙️ **PowerShell:** Automating access audits, testing controls, and validating security configurations.
-- 🤖 **AI Security:** Access governance for AI agents and non-human identities, with a focus on oversight and accountability.
+- 🔐 **Identity Governance** · Entitlement reviews, excessive permissions, access lifecycle controls
+- 🛡️ **Access Control** · RBAC, least privilege, permission validation
+- 🔑 **Credential Governance** · Credential risk and identity access
+- ☁️ **Microsoft Entra ID** · Identity administration, role assignments, access governance
+- ⚙️ **PowerShell** · Access audits, control testing, configuration validation
+- 🤖 **AI Security** · Access governance for AI agents and non-human identities
 
-My background in **International Business and customer service** helps me connect technical security risks to business impact, explain findings clearly, and recommend practical solutions.
+## My Unfair Advantage
+
+My background in **International Business and customer service** taught me something tech alone can't: how to truly understand people, see the bigger picture, and focus on what actually matters.
+
+I bring that perspective into identity security, translating technical findings into **decisions that work for the whole business, not just IT.**
+
+**Currently exploring IAM Analyst and Identity Security opportunities.**
 
 **Open to IAM Analyst and Identity Security opportunities.**
 
