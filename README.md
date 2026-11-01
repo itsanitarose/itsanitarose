@@ -45,9 +45,9 @@ Redesigned excessive permissions into job based roles aligned with least privile
 
 ### [AI Agent Security Review ↗](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review)
 
-Assessed an AI support agent's permissions, credentials, and ownership, including suspicious bulk-read activity.
+Assessed an AI support agent's permissions, credentials, and ownership, including suspicious bulk read activity.
 
-**Technical Approach:** Permission review, findings register, and incident-response recommendations
+**Technical Approach:** Permission review, findings register, and incident response recommendations
 
 ---
 
