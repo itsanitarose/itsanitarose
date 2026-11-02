@@ -28,6 +28,7 @@ I bring that perspective into identity security, translating technical findings 
 
 → **Open to IAM Analyst and Identity Security opportunities.**
 
+<br>
 
 ## Selected Projects
 
