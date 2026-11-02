@@ -5,7 +5,7 @@
 And **access** is what gives power to people, systems, and now AI agents.
 
 As an **IAM analyst**, my work focuses on understanding where that power is needed, how it could be abused, and where controls should draw the line. I enjoy investigating identity risk with **an attacker's mindset and a defender's responsibility.** Because in the age of AI, defence must be as smart as the threat.
-
+<br><br>
 ## What I Do
 
 Through my portfolio, I build practical solutions to IAM problems:
@@ -16,6 +16,7 @@ Through my portfolio, I build practical solutions to IAM problems:
 - ☁️ **Microsoft Entra ID** · Identity administration, role assignments, access governance
 - ⚙️ **PowerShell** · Access audits, control testing, configuration validation
 - 🤖 **AI Security** · Access governance for AI agents and non-human identities
+<br><br>
 
 ## My Unfair Advantage
 
@@ -23,9 +24,11 @@ My background in **International Business and customer service** taught me somet
 
 I bring that perspective into identity security, translating technical findings into **decisions that work for the whole business, not just IT.**
 
+<br>
 
+🟢 **Open to IAM Analyst and Identity Security opportunities.**
 
-**Open to IAM Analyst and Identity Security opportunities.**
+<br>
 
 ## Selected Projects
 
