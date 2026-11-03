@@ -2,10 +2,10 @@
 
 **One thing has always intrigued me: power.**
 
-And **access** is what gives power to people, systems, and now AI agents.
-It all starts with **identity**.
+And **access** is what gives power to people, systems, and now AI agents... It all starts with **identity**.
 
 As an **IAM analyst**, my work focuses on understanding where that power is needed, how it could be abused, and where controls should draw the line. I enjoy investigating identity risk with **an attacker's mindset and a defender's responsibility.** Because in the age of AI, defence must be as smart as the threat.
+
 <br><br>
 ## What I Do
 
