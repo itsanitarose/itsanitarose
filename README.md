@@ -56,7 +56,7 @@ Assessed an AI support agent's permissions, credentials, and ownership, includin
 
 ## IAM Case Studies
 
-*Ongoing · Fictiona environment*
+*Ongoing · Fictional environment*
 
 Investigating identity risks, implementing controls in Microsoft Entra ID, and validating the results.
 
