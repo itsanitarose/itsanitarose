@@ -27,7 +27,7 @@ I bring that perspective into identity security, translating technical findings 
 
 
 
-→ **Open to IAM Analyst and Identity Security opportunities.**
+→ **Open to IAM Analyst and Identity Security opportunities.** The best way to reach me is [LinkedIn](your-linkedin-url) or 
 
 <br>
 
