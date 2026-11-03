@@ -1,4 +1,4 @@
-## Ciao, I'm Anita Rose 👩🏾‍💻
+## Hi! I'm Anita Rose 👩🏾‍💻
 
 **One thing has always intrigued me: power.**
 
