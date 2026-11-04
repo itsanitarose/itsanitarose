@@ -65,5 +65,6 @@ This is my dedicated IAM workspace. I approach each case with the curiosity of a
 
 Through consistent, hands on work, I challenge assumptions, assess risks, make decisions and refine my approach. Each case builds on the last, strengthening the judgement and discipline I bring to identity security.
 
-[Explore the case studies →](#)
+
+[Explore the case studies →](https://github.com/itsanitarose/IAM-Case-Studies)
 
