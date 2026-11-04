@@ -63,7 +63,7 @@ Assessed an AI support agent's permissions, credentials, and ownership, includin
 
 This is my dedicated IAM workspace. I approach each case with the curiosity of an investigator and the responsibility of an analyst.
 
-Through consistent, hands-on work, I challenge assumptions, assess risks, make decisions and refine my approach. Each case builds on the last, strengthening the judgement and discipline I bring to identity security.
+Through consistent, hands on work, I challenge assumptions, assess risks, make decisions and refine my approach. Each case builds on the last, strengthening the judgement and discipline I bring to identity security.
 
 [Explore the case studies →](#)
 
