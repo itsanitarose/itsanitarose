@@ -29,7 +29,7 @@ I bring that perspective into identity security, translating technical findings 
 
 
 → **Open to IAM Analyst and Identity Security opportunities.**   
-The best way to reach me is [LinkedIn](your-linkedin-url) or Itsanitarose@outlook.com
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/itsanitarose/) or [itsanitarose@outlook.com](mailto:itsanitarose@outlook.com).
 
 <br>
 
