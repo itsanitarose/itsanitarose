@@ -15,7 +15,7 @@ Through my portfolio, I build practical solutions to IAM problems:
 - 🛡️ **Access Control** · RBAC, least privilege, permission validation
 - 🔑 **Credential Governance** · Credential risk and identity access
 - ☁️ **Microsoft Entra ID** · Identity administration, role assignments, access governance
-- ⚙️ **PowerShell** · Access audits, control testing, configuration validation
+- ⚙️ **PowerShell & Microsoft Graph**: IAM automation, directory queries and access management.
 - 🤖 **AI Security** · Access governance for AI agents and non-human identities
 <br><br>
 
