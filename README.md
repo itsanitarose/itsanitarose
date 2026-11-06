@@ -37,11 +37,13 @@ The best way to reach me is [LinkedIn](https://www.linkedin.com/in/itsanitarose/
 
 *Real access problems, investigated, fixed and documented*
 
+
 ### [User Access Review ↗](https://github.com/itsanitarose/IAM-Access-Review)
 
-Identified and remediated access retained after employment or contract end.
+Reviewed user access against HR records, identified discrepancies and prioritised remediation based on risk.
 
-**Technical Approach:** Account reconciliation, Entra ID changes, and PowerShell validation
+**Technical Approach:** Account reconciliation, access risk assessment and remediation recommendations.
+
 
 ### [Permission Sprawl & RBAC Design ↗](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC)
 
