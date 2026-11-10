@@ -24,7 +24,7 @@ Through my portfolio, I build practical solutions to IAM problems:
 
 My background in International Business, marketing and customer service taught me something tech alone can't: how to understand people, see the bigger picture and recognise the business impact of security decisions.
 
-I bring that perspective into identity security, translating technical findings into decisions that work for the whole business, not just IT.**
+I bring that perspective into identity security, translating technical findings into decisions that work for the whole business, not just IT.
 
 
 
