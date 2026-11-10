@@ -1,15 +1,21 @@
+
 # Hi! I'm Anita Rose 👩🏽‍💻
 
 **One thing has always intrigued me: power.**
 
-And access is what gives power to people, systems, and now AI agents. It all starts with identity.
+And access is what gives power to people, systems, and now AI agents.<br>
+It all starts with identity.
 
-As an IAM analyst, my work focuses on understanding where that power is needed, how it could be abused, and where controls should draw the line. My curiosity pushes me to question how access is granted, where risks might hide, and how those risks can be prevented. And what happens when permissions outlive their purpose?
+As an IAM analyst, my work focuses on understanding where that power is needed,<br>
+how it could be abused, and where controls should draw the line.
+
+My curiosity pushes me to question how access is granted, where risks might hide,<br>
+and how those risks can be prevented. And what happens when permissions outlive their purpose?
 
 **Every permission grants power. The risk grows when that power goes unquestioned.**
-<BR>
 
 ## What I Do
+
 
 Through my portfolio, I build practical solutions to IAM problems:
 
