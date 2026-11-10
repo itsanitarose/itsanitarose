@@ -14,6 +14,8 @@ and how those risks can be prevented. And what happens when permissions outlive 
 
 **Every permission grants power. The risk grows when that power goes unquestioned.**
 
+<BR>
+
 ## What I Do
 
 
