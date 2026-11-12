@@ -37,6 +37,7 @@ I bring that perspective into identity security, translating technical findings 
 
 
 → **Open to IAM Analyst and Identity Security opportunities.**   
+
 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/itsanitarose/) or [itsanitarose@outlook.com](mailto:itsanitarose@outlook.com).
 
 <br>
@@ -46,24 +47,29 @@ The best way to reach me is [LinkedIn](https://www.linkedin.com/in/itsanitarose/
 *Real access problems, investigated, fixed and documented*
 
 
-### [User Access Review ↗](https://github.com/itsanitarose/IAM-Access-Review)
 
-Reviewed user access against HR records, identified discrepancies and prioritised remediation based on risk.
+### Selected Projects
 
-**Technical Approach:** Account reconciliation, access risk assessment and remediation recommendations.
+*IAM investigations, risk assessments and proposed security controls.*
 
+### [RBAC Role Redesign ↗](https://github.com/itsanitarose/RBAC-Role-Redesign)
 
-### [Permission Sprawl & RBAC Design ↗](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC)
+Reviewed billing permissions, identified access conflicts and proposed six RBAC roles with a phased rollout plan.
 
-Redesigned excessive permissions into job based roles aligned with least privilege and segregation of duties.
+**Technical Approach:** Role design, least privilege, segregation of duties and access risk assessment.
 
-**Technical Approach:** RBAC role design, security group mapping, and access risk assessment.
+### [SAML SSO Troubleshooting ↗](https://github.com/itsanitarose/SAML-SSO-Troubleshooting)
+
+Investigated SSO configuration issues affecting authentication, identity mapping and administrative access.
+
+**Technical Approach:** SAML validation, NameID mapping, role assignment analysis and security verification.
 
 ### [AI Agent Security Review ↗](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review)
 
-Assessed an AI support agent's permissions, credentials, and ownership, including suspicious bulk read activity.
+Assessed an AI support agent's permissions, credentials and ownership, identifying excessive access and suspicious activity.
 
-**Technical Approach:** Permission review, findings register, and incident response recommendations
+**Technical Approach:** Non-human identity security, permission review, credential risk and remediation recommendations.
+
 
 ---
 
